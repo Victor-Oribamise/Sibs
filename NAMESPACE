@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+import(data.table)
+#export(GetGeneList)
+#export(MapMarkers)
+
+#importFrom("utils", "download.file", "read.table","read.delim", "write.table")
+
+#need to update based on functions used.
